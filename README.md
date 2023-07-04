@@ -21,7 +21,7 @@ Ft_printf is an individual project in [42](https://www.42sp.org.br) that require
 **Follow the steps below**
 ```bash
 # Clone the project and access the folder
-git clone https://github.com/gialexan/ft_printf-42 && cd ft_printf-42/
+git clone https://github.com/gialexan/42cursus-ft_printf && cd 42cursus-ft_printf/
 # Run make so you can build the library
 make
 # Compile your main with the library, example:
