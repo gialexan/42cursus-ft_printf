@@ -6,7 +6,7 @@
 /*   By: gialexan <gialexan@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/30 22:28:57 by gialexan          #+#    #+#             */
-/*   Updated: 2022/12/30 22:31:59 by gialexan         ###   ########.fr       */
+/*   Updated: 2023/09/06 09:29:40 by gialexan         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,4 +15,5 @@
 int	main(void)
 {
 	ft_printf("Hello World!\n");
+	return (0);
 }

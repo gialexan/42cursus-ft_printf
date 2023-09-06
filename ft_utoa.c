@@ -6,7 +6,7 @@
 /*   By: gialexan <gialexan@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/24 15:01:19 by gialexan          #+#    #+#             */
-/*   Updated: 2022/07/25 14:00:05 by gialexan         ###   ########.fr       */
+/*   Updated: 2023/09/06 09:19:01 by gialexan         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,7 +19,7 @@ static int	count_digits(unsigned int n)
 	return (count_digits(n / 10) + 1);
 }
 
-static int	isnegative(unsigned int n)
+static int	isnegative(int n)
 {
 	return (n < 0);
 }
