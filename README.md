@@ -1,5 +1,5 @@
 # Ft_printf
-My implementation of the [printf](https://www.tutorialspoint.com/c_standard_library/c_function_printf.htm) function.
+My implementation of the [printf()](https://www.tutorialspoint.com/c_standard_library/c_function_printf.htm) function.
 
 ### What is ft_printf?
 Ft_printf is an individual project in [42](https://www.42sp.org.br) that requires us to create our own version of the [printf()](https://www.tutorialspoint.com/c_standard_library/c_function_printf.htm) function.
