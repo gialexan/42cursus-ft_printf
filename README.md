@@ -35,7 +35,7 @@ make fclean
 
 ## Updating
 
-The project is updated regularly with new functions that could be useful for other projects.
+The project is regularly updated with bug fixes and code optimization.
 
 ---
 
